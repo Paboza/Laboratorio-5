@@ -81,7 +81,7 @@ medido en la tabla 5.1.
 abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
 ![image](https://user-images.githubusercontent.com/116833964/211592068-bfe16c55-88a3-4769-b0d9-11913ea4bcf2.png)
-
+![Resolución por mallas_2](https://user-images.githubusercontent.com/116833964/211640514-94381ce6-750c-4227-8b1a-56303850615c.jpg)
 
 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
@@ -94,8 +94,18 @@ Corriente:
 
 ![image](https://user-images.githubusercontent.com/116833964/211594395-44ba2430-d1ca-4b1f-acbd-ba2e9c321f77.png)
 
+![image](https://user-images.githubusercontent.com/116833964/211640226-100675b0-ddcd-4e2b-a408-4db99493add6.png)
+
+![image](https://user-images.githubusercontent.com/116833964/211640130-712067de-d76a-4190-83d0-fbfd5baeda7e.png)
+
 - Conclusion.-
 
 En clonclusion usando la información teórica provista en el sitio web y los tutoriales en video, describa y descubra las características correspondientes del teorema de Thevenin.
 
 Utilice el teorema de Thevenin aprendido en el aula para analizar y calcular diferentes ejemplos de circuitos y realizar ejercicios experimentales a través de simuladores virtuales.
+
+- Bibliografia.-
+- 
+Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
+
+Xnomind (2020) Teorema de Thevenin explicado para que lo entiendas, Teorema. Available at: https://www.teorema.top/teorema-de-thevenin/ (Accessed: January 10, 2023). 
